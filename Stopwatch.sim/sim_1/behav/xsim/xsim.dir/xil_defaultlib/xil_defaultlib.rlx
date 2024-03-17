@@ -1,0 +1,13 @@
+0.6
+2019.2
+Dec  5 2019
+05:06:03
+D:/Documents/240077/PC_05_template/SOURCES/SIM/stopwatch_tb.vhd,1646634150,vhdl,,,,stopwatch_tb,,,,,,,,
+D:/Documents/240077/PC_05_template/SOURCES/rp_top.vhd,1647341981,vhdl,,,,rp_top,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/btn_in.vhd,1647341698,vhdl,,,,btn_in,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/ce_gen.vhd,1646738680,vhdl,,,,ce_gen,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/debouncer.vhd,1646742773,vhdl,,,,debouncer,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/edge_detector.vhd,1647340966,vhdl,,,,edge_detector,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/stopwatch.vhd,1646740372,vhdl,,,,stopwatch,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/stopwatch_fsm.vhd,1647341242,vhdl,,,,stopwatch_fsm,,,,,,,,
+D:/Documents/240077/PC_05_template/Stopwatch.srcs/sources_1/new/sync_reg.vhd,1646741412,vhdl,,,,sync_reg,,,,,,,,

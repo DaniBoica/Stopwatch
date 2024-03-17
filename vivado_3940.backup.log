@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Tue Mar  8 11:53:03 2022
+# Process ID: 3940
+# Current directory: C:/Users/student/Desktop/PC_05_template
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent9624 C:\Users\student\Desktop\PC_05_template\Stopwatch.xpr
+# Log file: C:/Users/student/Desktop/PC_05_template/vivado.log
+# Journal file: C:/Users/student/Desktop/PC_05_template\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/student/Desktop/PC_05_template/Stopwatch.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Michal/2022/MPx-PLD/PC_labs/05/PC_05_template' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'C:/Users/student/Desktop/PC_05_template/Stopwatch.ip_user_files', nor could it be found using path 'C:/Michal/2022/MPx-PLD/PC_labs/05/PC_05_template/Stopwatch.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Appz/Xilinx/Vivado/2019.2/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:08 . Memory (MB): peak = 782.164 ; gain = 129.379
+update_compile_order -fileset sources_1
+file mkdir C:/Users/student/Desktop/PC_05_template/Stopwatch.srcs/sources_1/new
+close [ open C:/Users/student/Desktop/PC_05_template/Stopwatch.srcs/sources_1/new/ce_gen.vhd w ]
+add_files C:/Users/student/Desktop/PC_05_template/Stopwatch.srcs/sources_1/new/ce_gen.vhd
+update_compile_order -fileset sources_1

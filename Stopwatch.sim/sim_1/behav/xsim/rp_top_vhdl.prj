@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Stopwatch.srcs/sources_1/new/btn_in.vhd" \
+"../../../../Stopwatch.srcs/sources_1/new/ce_gen.vhd" \
+"../../../../Stopwatch.srcs/sources_1/new/debouncer.vhd" \
+"../../../../Stopwatch.srcs/sources_1/new/edge_detector.vhd" \
+"../../../../Stopwatch.srcs/sources_1/new/stopwatch.vhd" \
+"../../../../Stopwatch.srcs/sources_1/new/stopwatch_fsm.vhd" \
+"../../../../Stopwatch.srcs/sources_1/new/sync_reg.vhd" \
+"../../../../SOURCES/rp_top.vhd" \
+
+# Do not sort compile order
+nosort

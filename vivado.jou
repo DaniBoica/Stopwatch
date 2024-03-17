@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Tue Mar 15 13:34:17 2022
+# Process ID: 256
+# Current directory: D:/Documents/tinu/lab5_6/bun2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7900 D:\Documents\tinu\lab5_6\bun2\Stopwatch.xpr
+# Log file: D:/Documents/tinu/lab5_6/bun2/vivado.log
+# Journal file: D:/Documents/tinu/lab5_6/bun2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Documents/tinu/lab5_6/bun2/Stopwatch.xpr
+update_compile_order -fileset sources_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 2
+wait_on_run impl_1
+open_run impl_1
+open_hw_manager
+connect_hw_server -allow_non_jtag
+open_hw_target
+set_property PROGRAM.FILE {D:/Documents/tinu/lab5_6/bun2/Stopwatch.runs/impl_1/rp_top.bit} [get_hw_devices xc7z010_1]
+current_hw_device [get_hw_devices xc7z010_1]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7z010_1] 0]
+set_property PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property FULL_PROBES.FILE {} [get_hw_devices xc7z010_1]
+set_property PROGRAM.FILE {D:/Documents/tinu/lab5_6/bun2/Stopwatch.runs/impl_1/rp_top.bit} [get_hw_devices xc7z010_1]
+program_hw_devices [get_hw_devices xc7z010_1]
+refresh_hw_device [lindex [get_hw_devices xc7z010_1] 0]

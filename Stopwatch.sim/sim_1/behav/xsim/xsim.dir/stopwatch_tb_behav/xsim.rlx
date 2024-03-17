@@ -1,0 +1,12 @@
+
+{ 
+    crc :  6783806792293464500  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto e5e5df553fd445b09a4a2ef73b2e2726 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot stopwatch_tb_behav xil_defaultlib.stopwatch_tb" , 
+    buildDate : "Dec  5 2019" , 
+    buildTime : "05:06:03" , 
+    linkCmd : "C:\\Appz\\Xilinx\\Vivado\\2019.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/stopwatch_tb_behav/xsimk.exe\"   \"xsim.dir/stopwatch_tb_behav/obj/xsim_0.win64.obj\" \"xsim.dir/stopwatch_tb_behav/obj/xsim_1.win64.obj\" -L\"C:\\Appz\\Xilinx\\Vivado\\2019.2\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

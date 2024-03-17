@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Tue Mar 15 13:29:14 2022
+# Process ID: 11700
+# Current directory: D:/Documents/240077/PC_05_template/Stopwatch.runs/synth_1
+# Command line: vivado.exe -log rp_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source rp_top.tcl
+# Log file: D:/Documents/240077/PC_05_template/Stopwatch.runs/synth_1/rp_top.vds
+# Journal file: D:/Documents/240077/PC_05_template/Stopwatch.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source rp_top.tcl -notrace
